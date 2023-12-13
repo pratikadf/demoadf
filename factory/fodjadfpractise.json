@@ -1,0 +1,9 @@
+{
+	"name": "fodjadfpractise",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de550c9f-01d4-4441-8ebb-927ab8114ba5",
+		"tenantId": "51726820-107a-4bba-a42f-2cbc2378f054"
+	}
+}
